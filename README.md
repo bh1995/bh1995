@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @bh1995
-- 👀 I’m interested in deep learning and computer science.
-- 🌱 I’m always doing deep learning projects in my free time, proffesional information: https://www.linkedin.com/in/bjorn-hansen-4958b4107/ 
-- 💞️ I’m looking to collaborate on anything cool!
-- 📫 How to reach me: send a message to linkedin 
+- 👀 I’m interested in Software/ Data Engineering, Math, Deep Learning and Computer Science in general.
+- 🌱 proffesional information: { [https://www.linkedin.com/in/bjorn-hansen-4958b4107/](https://www.linkedin.com/in/bj%C3%B8rn-hansen-4958b4107/) , [bjornhansen.cool](https://bjornhansen.cool/) }.
+- 📫 How to reach me: send me a message on linkedin.
 
 <!---
 bh1995/bh1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
